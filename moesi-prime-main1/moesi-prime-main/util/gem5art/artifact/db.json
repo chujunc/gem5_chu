@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "e05e8f56-ad38-4e20-876a-f5d599e967a4",
+        "name": "test-artifact",
+        "type": "text",
+        "documentation": "This artifact is made for testing.",
+        "command": "echo \"This is a test file\" > test-file.txt",
+        "path": "test-file.txt",
+        "hash": "3de8f8b0dc94b8c2230fab9ec0ba0506",
+        "git": {},
+        "cwd": ".",
+        "inputs": [],
+        "architecture": "",
+        "size": null,
+        "is_zipped": false,
+        "md5sum": "",
+        "url": "",
+        "supported_gem5_versions": "[]",
+        "version": "",
+        "extra": "{}"
+    }
+]
